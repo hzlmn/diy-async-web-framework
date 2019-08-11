@@ -15,9 +15,9 @@
 
 ### Table of contents :book:
 
-* [Asyncio low-level APIs, Transports & Protocols]()
+* [Asyncio low-level APIs, Transports & Protocols](#asyncio-low-level-apis-transports--protocols)
 
-* [Making server protocol](#say-hello-to-sketch)
+* [Making server protocol](#making-server-protocol)
 
 * [Request/Response objects](#requestresponse-objects)
 
