@@ -892,7 +892,7 @@ def run_app(app, host="127.0.0.1", port=8080, loop=None):
 ```
 
 ## Sample application
-Now when we have our toolkit ready, let's try to complete our previous sample application with middlewares, lifecycle hooks and exceptions that we just added.
+Now when we have our toolkit ready, let's try to complete our previous sample application lifecycle hooks and exceptions that we just added.
 
 `app.py`
 ```python
