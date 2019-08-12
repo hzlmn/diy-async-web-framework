@@ -11,6 +11,8 @@
   
    - [Intro to asyncio](https://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio)
    - [Understanding asynchronous programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
+
+For impatients, final source code available at [`hzlmn/sketch`](https://github.com/hzlmn/sketch)
    
 
 ### Table of contents :book:
