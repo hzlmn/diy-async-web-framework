@@ -34,7 +34,7 @@ For impatients, final source code available at [`hzlmn/sketch`](https://github.c
   
       * [Better exceptions](#better-exceptions)
       
-      * [Gracefull shutdown](#gracefull-shutdown)
+      * [Graceful shutdown](#graceful-shutdown)
 
   * [Sample application](#sample-application)
       
@@ -867,7 +867,7 @@ class Application:
         ...
 ```
 
-## Gracefull shutdown
+## Graceful shutdown
 As a final touch, we need to add signal processing for the proper process of shutting down our application. So, let's change `run_app` to the following lines.
 
 `application.py`
