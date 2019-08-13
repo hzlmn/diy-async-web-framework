@@ -1,6 +1,5 @@
 <div align="center">
-  <h2>DIY Async Web Framework</h2>
-  <p>Learn how aiohttp/sanic works, by writing simple clone from scratch</p>
+  <img src="media/logo.png"/>
 </div>
   
 ### Introduction
