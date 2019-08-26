@@ -4,7 +4,7 @@
   
 ### Introduction
 
-   Asynchronous programming became much popular in the last few years in the Python community. Libraries like `aiohttp` show incredible usage growing. They handle a large amount of concurrent connection while still maintain good code readability and simplicity. Not a long time ago, Django [committed](https://docs.djangoproject.com/en/dev/releases/3.0/#asgi-support) on adding async support in a next major version. So future of asynchronous python is pretty bright as you may realise. However, for a large number of developers, who came from a standard blocking model, the working mechanism of these tools may seem confusing. So in this short guide, I tried to go behind the scene and clarify the process, by re-building a  little  `aiohttp`  clone from scratch. We will start just with basic sample from official documentation and progressively add all necessary functionality that we all like. So let's start.
+   Asynchronous programming became much popular in the last few years in the Python community. Libraries like `aiohttp` show incredible growth in usage. They handle a large amount of concurrent connections while still maintain good code readability and simplicity. Not a long time ago, Django [committed](https://docs.djangoproject.com/en/dev/releases/3.0/#asgi-support) on adding async support in a next major version. So future of asynchronous python is pretty bright as you may realise. However, for a large number of developers, who came from a standard blocking model, the working mechanism of these tools may seem confusing. In this short guide, I tried to go behind the scene and clarify the process, by re-building a  little  `aiohttp`  clone from scratch. We will start just with a basic sample from official documentation and progressively add all necessary functionality that we all like. So let's start.
    
   I assume that you already have a basic understanding of [asyncio](https://docs.python.org/3/library/asyncio.html) to follow this guide, but if you need a refresher here are few articles that may help
   
@@ -347,7 +347,7 @@ class Server(asyncio.Protocol, HttpParserMixin):
         self._transport.close()
 ```
 
-Now running our `server.py` we will be able to see `Received request on /path` in response to curl call `http:localhost:8080/path`.
+Now running our `server.py` we will be able to see `Received request on /path` in response to curl call `http://localhost:8080/path`.
 
 ## Application & UrlDispatcher
 
