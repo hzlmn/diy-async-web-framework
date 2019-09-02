@@ -12,9 +12,12 @@
    - [Understanding asynchronous programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
 
 For impatients, final source code available at [`hzlmn/sketch`](https://github.com/hzlmn/sketch)
+
+## Related projects
+- [500 Lines or Less](https://github.com/aosabook/500lines)
    
 
-### Table of contents :book:
+## Table of contents :book:
 
 * [Asyncio low-level APIs, Transports & Protocols](#asyncio-low-level-apis-transports--protocols)
 
