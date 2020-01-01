@@ -3,7 +3,7 @@
 </div>
 
 ### Translations
-> Feel free to create an issue if you translated this guide or want to request a translation.
+> Feel free to create an issue if you have translated this guide or want to request a translation.
 - :ukraine:[Ukrainian](https://codeguida.com/post/2020)
 
   
