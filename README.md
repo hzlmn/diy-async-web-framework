@@ -1,6 +1,11 @@
 <div align="center">
   <img src="media/logo.png"/>
 </div>
+
+### Translations
+> Feel free to create an issue if you translated this guide or want to request a translation.
+- :ukraine:[Ukrainian](https://codeguida.com/post/2020)
+
   
 ### Introduction
 
