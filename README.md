@@ -4,7 +4,8 @@
 
 ### Translations
 > Feel free to create an issue if you have translated this guide or want to request a translation.
-- :ukraine:[Ukrainian](https://codeguida.com/post/2020)
+- :ukraine: [Ukrainian](https://codeguida.com/post/2020) by Codeguida
+- 🇨🇳 [Chinese](https://github.com/hzlmn/diy-async-web-framework/blob/master/README_CN.md) thanks [@Amaindex](https://github.com/Amaindex)
 
   
 ### Introduction
